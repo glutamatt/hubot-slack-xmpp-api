@@ -1,0 +1,15 @@
+{
+  "name": "hubot-slack-xmpp-api",
+  "version": "1.0.0",
+  "description": "Hubot adapter through Slack Api and Xmpp gateway",
+  "author": "Mathieu Morlon",
+  "license": "ISC",
+  "dependencies": {
+    "hubot-slack": "^2.2.0",
+    "hubot-xmpp": "^0.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:glutamatt/hubot-slack-xmpp-api.git"
+  }
+}
